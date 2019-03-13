@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  color: #333333;
 }
 
 img {
@@ -33,6 +34,7 @@ img {
 
 .navbar {
   padding: 8px 0;
+  font-size: 13px;
 }
 
 .navbar-block {
