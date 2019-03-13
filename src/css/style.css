@@ -1,3 +1,4 @@
+@charset "UTF-8";
 body {
   font-family: sans-serif;
   color: #333333;
@@ -19,7 +20,7 @@ img {
 }
 
 @media (max-width: 768px) {
-  .container {
+  .containerмр {
     max-width: 580px;
     width: 95%;
   }
@@ -28,6 +29,7 @@ img {
 .button {
   border-radius: 10px;
   background-color: #ffd200;
+  color: #333333;
   border: none;
   padding: 18px 30px;
 }
